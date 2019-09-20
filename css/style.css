@@ -1,12 +1,12 @@
 header{
 	background-color: black;
 	color: white;
-	text-align: center;
+	text-align: left;
 	position: fixed;
 	top: 0; 
 	left: 0;
 	right: 0;
-	height: 100px;
+	height: 50px;
 }
 
 main{
@@ -15,7 +15,7 @@ main{
 
 a{
 	text-decoration: none;
-	color: white;
+	color: grey;
 }
 
 ul{
