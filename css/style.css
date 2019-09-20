@@ -26,17 +26,6 @@ header li{
 	display: inline-block;
 }
 
-header li:hover, #stages a:hover{
-	color: grey;
-}
-
-#stages h2{
-	text-decoration: underline;
-}
-
-#stages a{
-	color: black;
-}
 
 .anchor{
 	display: block;
