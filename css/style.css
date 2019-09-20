@@ -6,20 +6,20 @@ header{
 	top: 0; 
 	left: 0;
 	right: 0;
-	height: 50px;
+	height: 200px;
 }
 
 main{
-	margin-top: 110px;
+	margin-top: 210px;
 }
-
+//Nav Bar Stuff
 a{
 	text-decoration: none;
 	color: grey;
 }
 
 ul{
-	padding: 0px;
+	padding: 20px;
 }
 
 header li{
